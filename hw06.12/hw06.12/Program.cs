@@ -1,30 +1,29 @@
-﻿namespace hw06._12
-{
-    internal class Program
+﻿namespace hw06._12 { 
+    class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Please enter count of step: ");
-            int count_step = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Your enter - " + count_step);
+            Console.WriteLine("Please, enter count of steps: ");
 
-            for (int i = 0; i < count_step; i++)
+            string user_steps = Console.ReadLine();
+            bool success = int.TryParse(user_steps, out int steps);
+
+            if (!success || steps <= 0)
             {
-                for (int j = 0; j < i * 2; j++)
-                {
-                    Console.Write(" ");
-                }
-
-                Console.WriteLine("***");
-
-                for (int j = 0; j < (i + 1) * 2; j++)
-                {
-                    Console.Write(" ");
-                }
-
-                Console.WriteLine("*");
+                Console.WriteLine("Wrong, please enter correct number...");
+                return;
             }
+
+            int indentation = 3;
+            for (int i = 0; i < steps; i++)
+            {
+                Console.WriteLine("***".PadLeft(indentation));
+                Console.WriteLine("  *".PadLeft(indentation));
+                indentation += 3;
+            }
+            Console.WriteLine("***".PadLeft(indentation));
         }
     }
 }
+
 

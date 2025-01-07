@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{5229DEF3-CF0C-434A-AACA-EFC86B46F2C9}|hw09.12\\hw09.12.csproj|solutionrelative:hw09.12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5229DEF3-CF0C-434A-AACA-EFC86B46F2C9}|hw09.12\\hw09.12.csproj|d:\\development\\itstep\\dotnet\\dotnet_classes\\hw09.12\\hw09.12\\1darray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5229DEF3-CF0C-434A-AACA-EFC86B46F2C9}|hw09.12\\hw09.12.csproj|solutionrelative:hw09.12\\1darray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5229DEF3-CF0C-434A-AACA-EFC86B46F2C9}|hw09.12\\hw09.12.csproj|d:\\development\\itstep\\dotnet\\dotnet_classes\\hw09.12\\hw09.12\\2darray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5229DEF3-CF0C-434A-AACA-EFC86B46F2C9}|hw09.12\\hw09.12.csproj|solutionrelative:hw09.12\\2darray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5229DEF3-CF0C-434A-AACA-EFC86B46F2C9}|hw09.12\\hw09.12.csproj|d:\\development\\itstep\\dotnet\\dotnet_classes\\hw09.12\\hw09.12\\1darray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5229DEF3-CF0C-434A-AACA-EFC86B46F2C9}|hw09.12\\hw09.12.csproj|solutionrelative:hw09.12\\1darray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,26 +26,26 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "1dArray.cs",
               "DocumentMoniker": "D:\\development\\itStep\\dotnet\\dotnet_classes\\hw09.12\\hw09.12\\1dArray.cs",
               "RelativeDocumentMoniker": "hw09.12\\1dArray.cs",
               "ToolTip": "D:\\development\\itStep\\dotnet\\dotnet_classes\\hw09.12\\hw09.12\\1dArray.cs",
               "RelativeToolTip": "hw09.12\\1dArray.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAmwE0AAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-07T16:03:29.013Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "2dArray.cs",
               "DocumentMoniker": "D:\\development\\itStep\\dotnet\\dotnet_classes\\hw09.12\\hw09.12\\2dArray.cs",
               "RelativeDocumentMoniker": "hw09.12\\2dArray.cs",
               "ToolTip": "D:\\development\\itStep\\dotnet\\dotnet_classes\\hw09.12\\hw09.12\\2dArray.cs",
               "RelativeToolTip": "hw09.12\\2dArray.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAmwDIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-07T15:59:51.279Z",
               "EditorCaption": ""
@@ -58,7 +58,7 @@
               "RelativeDocumentMoniker": "hw09.12\\Program.cs",
               "ToolTip": "D:\\development\\itStep\\dotnet\\dotnet_classes\\hw09.12\\hw09.12\\Program.cs",
               "RelativeToolTip": "hw09.12\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-07T15:49:05.223Z",
               "EditorCaption": ""

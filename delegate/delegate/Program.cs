@@ -39,6 +39,5 @@ internal class Program
 
         FPTR[] methods = { AddStudent, RemoveStudent, ShowBestStudents, ShowStudentsBadExam };
         methods[value]();
-
     }
 }

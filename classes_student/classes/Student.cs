@@ -34,6 +34,16 @@ class Student
         this._address = address;
         this._telNumber = telNumber;
     }
+    public Student(string name, string surname, string patronymic, DateTime birthday, string address, string telNumber, List<int> grades)
+    {
+        this._name = name;
+        this._surname = surname;
+        this._patronymic = patronymic;
+        this._birthday = birthday;
+        this._address = address;
+        this._telNumber = telNumber;
+        this._gradesExam = new List<int>();
+    }
 
     // setters
     public void SetName(string name) => 

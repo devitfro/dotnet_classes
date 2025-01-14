@@ -1,0 +1,15 @@
+D:\development\itStep\dotnet\dotnet_classes\delegate\delegate\bin\Debug\net9.0\delegate.exe
+D:\development\itStep\dotnet\dotnet_classes\delegate\delegate\bin\Debug\net9.0\delegate.deps.json
+D:\development\itStep\dotnet\dotnet_classes\delegate\delegate\bin\Debug\net9.0\delegate.runtimeconfig.json
+D:\development\itStep\dotnet\dotnet_classes\delegate\delegate\bin\Debug\net9.0\delegate.dll
+D:\development\itStep\dotnet\dotnet_classes\delegate\delegate\bin\Debug\net9.0\delegate.pdb
+D:\development\itStep\dotnet\dotnet_classes\delegate\delegate\obj\Debug\net9.0\delegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\development\itStep\dotnet\dotnet_classes\delegate\delegate\obj\Debug\net9.0\delegate.AssemblyInfoInputs.cache
+D:\development\itStep\dotnet\dotnet_classes\delegate\delegate\obj\Debug\net9.0\delegate.AssemblyInfo.cs
+D:\development\itStep\dotnet\dotnet_classes\delegate\delegate\obj\Debug\net9.0\delegate.csproj.CoreCompileInputs.cache
+D:\development\itStep\dotnet\dotnet_classes\delegate\delegate\obj\Debug\net9.0\delegate.sourcelink.json
+D:\development\itStep\dotnet\dotnet_classes\delegate\delegate\obj\Debug\net9.0\delegate.dll
+D:\development\itStep\dotnet\dotnet_classes\delegate\delegate\obj\Debug\net9.0\refint\delegate.dll
+D:\development\itStep\dotnet\dotnet_classes\delegate\delegate\obj\Debug\net9.0\delegate.pdb
+D:\development\itStep\dotnet\dotnet_classes\delegate\delegate\obj\Debug\net9.0\delegate.genruntimeconfig.cache
+D:\development\itStep\dotnet\dotnet_classes\delegate\delegate\obj\Debug\net9.0\ref\delegate.dll

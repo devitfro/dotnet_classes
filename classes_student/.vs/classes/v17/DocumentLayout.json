@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\development\\itStep\\dotnet\\dotnet_classes\\classes_student\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FB8972F6-8F19-4B46-B827-BF151E92E79C}|classes\\classes.csproj|d:\\development\\itstep\\dotnet\\dotnet_classes\\classes_student\\classes\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8972F6-8F19-4B46-B827-BF151E92E79C}|classes\\classes.csproj|solutionrelative:classes\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FB8972F6-8F19-4B46-B827-BF151E92E79C}|classes\\classes.csproj|d:\\development\\itstep\\dotnet\\dotnet_classes\\classes_student\\classes\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB8972F6-8F19-4B46-B827-BF151E92E79C}|classes\\classes.csproj|solutionrelative:classes\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FB8972F6-8F19-4B46-B827-BF151E92E79C}|classes\\classes.csproj|d:\\development\\itstep\\dotnet\\dotnet_classes\\classes_student\\classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB8972F6-8F19-4B46-B827-BF151E92E79C}|classes\\classes.csproj|solutionrelative:classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB8972F6-8F19-4B46-B827-BF151E92E79C}|classes\\classes.csproj|d:\\development\\itstep\\dotnet\\dotnet_classes\\classes_student\\classes\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB8972F6-8F19-4B46-B827-BF151E92E79C}|classes\\classes.csproj|solutionrelative:classes\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,17 +22,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\development\\itStep\\dotnet\\dotnet_classes\\classes_student\\classes\\Student.cs",
               "RelativeDocumentMoniker": "classes\\Student.cs",
               "ToolTip": "D:\\development\\itStep\\dotnet\\dotnet_classes\\classes_student\\classes\\Student.cs",
               "RelativeToolTip": "classes\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH8AAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-14T16:09:56.481Z",
               "IsPinned": true,
@@ -40,19 +40,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Group.cs",
               "DocumentMoniker": "D:\\development\\itStep\\dotnet\\dotnet_classes\\classes_student\\classes\\Group.cs",
               "RelativeDocumentMoniker": "classes\\Group.cs",
               "ToolTip": "D:\\development\\itStep\\dotnet\\dotnet_classes\\classes_student\\classes\\Group.cs",
               "RelativeToolTip": "classes\\Group.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAowCIAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T16:28:19.216Z"
+              "WhenOpened": "2025-01-14T16:28:19.216Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\development\\itStep\\dotnet\\dotnet_classes\\classes_student\\classes\\Program.cs",
               "RelativeDocumentMoniker": "classes\\Program.cs",

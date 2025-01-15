@@ -1,4 +1,6 @@
-﻿namespace ClassesStudent;
+﻿using System.Xml.Linq;
+
+namespace ClassesStudent;
 
 class Group
 {
@@ -9,17 +11,38 @@ class Group
     private int _courseNumber;
 
     // c-tor
-    public Group()
+    public Group() : this("Default Group", "Default Specialist", 1) { }
+
+    public Group(string groupName, string groupSpecialist, int courseNumber)
     {
         _students = new List<Student>();
+
+        SetGroupName(groupName); 
+        SetGroupSpecialist(groupSpecialist);
+        SetCourseNumber(courseNumber);
     }
-
+ 
     // setters
-    public void SetGroupName(string groupName) =>
+    public void SetGroupName(string groupName)
+    {
+        if (string.IsNullOrWhiteSpace(groupName))
+        {
+            Console.WriteLine("Name cannot be null or empty.");
+            return;
+        }
         _groupName = groupName;
+    }
+      
 
-    public void SetGroupSpecialist(string groupSpecialist) =>
+    public void SetGroupSpecialist(string groupSpecialist)
+    {
+        if (string.IsNullOrWhiteSpace(groupSpecialist))
+        {
+            Console.WriteLine("Name cannot be null or empty.");
+            return;
+        }
         _groupSpecialist = groupSpecialist;
+    }
 
     public void SetCourseNumber(int courseNumber) =>
        _courseNumber = courseNumber;

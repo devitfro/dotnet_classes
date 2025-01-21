@@ -1,0 +1,15 @@
+D:\development\itStep\dotnet\dotnet_classes\hw06.12\hw06.12\bin\Debug\net9.0\hw06.12.exe
+D:\development\itStep\dotnet\dotnet_classes\hw06.12\hw06.12\bin\Debug\net9.0\hw06.12.deps.json
+D:\development\itStep\dotnet\dotnet_classes\hw06.12\hw06.12\bin\Debug\net9.0\hw06.12.runtimeconfig.json
+D:\development\itStep\dotnet\dotnet_classes\hw06.12\hw06.12\bin\Debug\net9.0\hw06.12.dll
+D:\development\itStep\dotnet\dotnet_classes\hw06.12\hw06.12\bin\Debug\net9.0\hw06.12.pdb
+D:\development\itStep\dotnet\dotnet_classes\hw06.12\hw06.12\obj\Debug\net9.0\hw06.12.GeneratedMSBuildEditorConfig.editorconfig
+D:\development\itStep\dotnet\dotnet_classes\hw06.12\hw06.12\obj\Debug\net9.0\hw06.12.AssemblyInfoInputs.cache
+D:\development\itStep\dotnet\dotnet_classes\hw06.12\hw06.12\obj\Debug\net9.0\hw06.12.AssemblyInfo.cs
+D:\development\itStep\dotnet\dotnet_classes\hw06.12\hw06.12\obj\Debug\net9.0\hw06.12.csproj.CoreCompileInputs.cache
+D:\development\itStep\dotnet\dotnet_classes\hw06.12\hw06.12\obj\Debug\net9.0\hw06.12.sourcelink.json
+D:\development\itStep\dotnet\dotnet_classes\hw06.12\hw06.12\obj\Debug\net9.0\hw06.12.dll
+D:\development\itStep\dotnet\dotnet_classes\hw06.12\hw06.12\obj\Debug\net9.0\refint\hw06.12.dll
+D:\development\itStep\dotnet\dotnet_classes\hw06.12\hw06.12\obj\Debug\net9.0\hw06.12.pdb
+D:\development\itStep\dotnet\dotnet_classes\hw06.12\hw06.12\obj\Debug\net9.0\hw06.12.genruntimeconfig.cache
+D:\development\itStep\dotnet\dotnet_classes\hw06.12\hw06.12\obj\Debug\net9.0\ref\hw06.12.dll

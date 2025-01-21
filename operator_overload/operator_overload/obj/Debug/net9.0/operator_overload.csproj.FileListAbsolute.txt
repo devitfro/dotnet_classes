@@ -1,0 +1,15 @@
+D:\development\itStep\dotnet\dotnet_classes\operator_overload\operator_overload\bin\Debug\net9.0\operator_overload.exe
+D:\development\itStep\dotnet\dotnet_classes\operator_overload\operator_overload\bin\Debug\net9.0\operator_overload.deps.json
+D:\development\itStep\dotnet\dotnet_classes\operator_overload\operator_overload\bin\Debug\net9.0\operator_overload.runtimeconfig.json
+D:\development\itStep\dotnet\dotnet_classes\operator_overload\operator_overload\bin\Debug\net9.0\operator_overload.dll
+D:\development\itStep\dotnet\dotnet_classes\operator_overload\operator_overload\bin\Debug\net9.0\operator_overload.pdb
+D:\development\itStep\dotnet\dotnet_classes\operator_overload\operator_overload\obj\Debug\net9.0\operator_overload.GeneratedMSBuildEditorConfig.editorconfig
+D:\development\itStep\dotnet\dotnet_classes\operator_overload\operator_overload\obj\Debug\net9.0\operator_overload.AssemblyInfoInputs.cache
+D:\development\itStep\dotnet\dotnet_classes\operator_overload\operator_overload\obj\Debug\net9.0\operator_overload.AssemblyInfo.cs
+D:\development\itStep\dotnet\dotnet_classes\operator_overload\operator_overload\obj\Debug\net9.0\operator_overload.csproj.CoreCompileInputs.cache
+D:\development\itStep\dotnet\dotnet_classes\operator_overload\operator_overload\obj\Debug\net9.0\operator_overload.sourcelink.json
+D:\development\itStep\dotnet\dotnet_classes\operator_overload\operator_overload\obj\Debug\net9.0\operator_overload.dll
+D:\development\itStep\dotnet\dotnet_classes\operator_overload\operator_overload\obj\Debug\net9.0\refint\operator_overload.dll
+D:\development\itStep\dotnet\dotnet_classes\operator_overload\operator_overload\obj\Debug\net9.0\operator_overload.pdb
+D:\development\itStep\dotnet\dotnet_classes\operator_overload\operator_overload\obj\Debug\net9.0\operator_overload.genruntimeconfig.cache
+D:\development\itStep\dotnet\dotnet_classes\operator_overload\operator_overload\obj\Debug\net9.0\ref\operator_overload.dll

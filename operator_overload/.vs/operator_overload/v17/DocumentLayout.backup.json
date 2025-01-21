@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\development\\itStep\\dotnet\\dotnet_classes\\operator_overload\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D334097-0A13-418C-885E-07B5CB5BF84E}|operator_overload\\operator_overload.csproj|d:\\development\\itstep\\dotnet\\dotnet_classes\\operator_overload\\operator_overload\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D334097-0A13-418C-885E-07B5CB5BF84E}|operator_overload\\operator_overload.csproj|solutionrelative:operator_overload\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D334097-0A13-418C-885E-07B5CB5BF84E}|operator_overload\\operator_overload.csproj|d:\\development\\itstep\\dotnet\\dotnet_classes\\operator_overload\\operator_overload\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D334097-0A13-418C-885E-07B5CB5BF84E}|operator_overload\\operator_overload.csproj|solutionrelative:operator_overload\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D334097-0A13-418C-885E-07B5CB5BF84E}|operator_overload\\operator_overload.csproj|d:\\development\\itstep\\dotnet\\dotnet_classes\\operator_overload\\operator_overload\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D334097-0A13-418C-885E-07B5CB5BF84E}|operator_overload\\operator_overload.csproj|solutionrelative:operator_overload\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Group.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\dotnet\\dotnet_classes\\operator_overload\\operator_overload\\Group.cs",
+              "RelativeDocumentMoniker": "operator_overload\\Group.cs",
+              "ToolTip": "D:\\development\\itStep\\dotnet\\dotnet_classes\\operator_overload\\operator_overload\\Group.cs",
+              "RelativeToolTip": "operator_overload\\Group.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAiwHMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T15:51:25.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\dotnet\\dotnet_classes\\operator_overload\\operator_overload\\Student.cs",
+              "RelativeDocumentMoniker": "operator_overload\\Student.cs",
+              "ToolTip": "D:\\development\\itStep\\dotnet\\dotnet_classes\\operator_overload\\operator_overload\\Student.cs",
+              "RelativeToolTip": "operator_overload\\Student.cs",
+              "ViewState": "AgIAAMoAAAAAAAAAAAAAAN0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T15:42:55.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\dotnet\\dotnet_classes\\operator_overload\\operator_overload\\Program.cs",
+              "RelativeDocumentMoniker": "operator_overload\\Program.cs",
+              "ToolTip": "D:\\development\\itStep\\dotnet\\dotnet_classes\\operator_overload\\operator_overload\\Program.cs*",
+              "RelativeToolTip": "operator_overload\\Program.cs*",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAiwF8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T15:34:24.427Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

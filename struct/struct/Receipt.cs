@@ -18,7 +18,6 @@ struct Receipt
 
     public void PrintReceipt()
     {
-
         if (products == null || products.Count == 0)
         {
             Console.WriteLine("The receipt is empty.");

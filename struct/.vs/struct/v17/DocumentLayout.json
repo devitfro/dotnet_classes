@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\development\\itStep\\dotnet\\dotnet_classes\\struct\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3ABAE87F-5FF0-460E-BE5F-51C8FBDE4E95}|struct\\struct.csproj|d:\\development\\itstep\\dotnet\\dotnet_classes\\struct\\struct\\receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3ABAE87F-5FF0-460E-BE5F-51C8FBDE4E95}|struct\\struct.csproj|solutionrelative:struct\\receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3ABAE87F-5FF0-460E-BE5F-51C8FBDE4E95}|struct\\struct.csproj|d:\\development\\itstep\\dotnet\\dotnet_classes\\struct\\struct\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3ABAE87F-5FF0-460E-BE5F-51C8FBDE4E95}|struct\\struct.csproj|solutionrelative:struct\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ABAE87F-5FF0-460E-BE5F-51C8FBDE4E95}|struct\\struct.csproj|d:\\development\\itstep\\dotnet\\dotnet_classes\\struct\\struct\\receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ABAE87F-5FF0-460E-BE5F-51C8FBDE4E95}|struct\\struct.csproj|solutionrelative:struct\\receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3ABAE87F-5FF0-460E-BE5F-51C8FBDE4E95}|struct\\struct.csproj|d:\\development\\itstep\\dotnet\\dotnet_classes\\struct\\struct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,30 +22,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Receipt.cs",
               "DocumentMoniker": "D:\\development\\itStep\\dotnet\\dotnet_classes\\struct\\struct\\Receipt.cs",
               "RelativeDocumentMoniker": "struct\\Receipt.cs",
               "ToolTip": "D:\\development\\itStep\\dotnet\\dotnet_classes\\struct\\struct\\Receipt.cs",
               "RelativeToolTip": "struct\\Receipt.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-21T15:24:49.25Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\development\\itStep\\dotnet\\dotnet_classes\\struct\\struct\\Product.cs",
               "RelativeDocumentMoniker": "struct\\Product.cs",
               "ToolTip": "D:\\development\\itStep\\dotnet\\dotnet_classes\\struct\\struct\\Product.cs",
               "RelativeToolTip": "struct\\Product.cs",
-              "ViewState": "AgIAAIQAAAAAAAAAAAAAAAQAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAAQAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-21T15:24:02.203Z",
               "EditorCaption": ""

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\development\\itStep\\dotnet\\dotnet_classes\\struct\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3ABAE87F-5FF0-460E-BE5F-51C8FBDE4E95}|struct\\struct.csproj|d:\\development\\itstep\\dotnet\\dotnet_classes\\struct\\struct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ABAE87F-5FF0-460E-BE5F-51C8FBDE4E95}|struct\\struct.csproj|solutionrelative:struct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\development\\itStep\\dotnet\\dotnet_classes\\struct\\struct\\Program.cs",
+              "RelativeDocumentMoniker": "struct\\Program.cs",
+              "ToolTip": "D:\\development\\itStep\\dotnet\\dotnet_classes\\struct\\struct\\Program.cs",
+              "RelativeToolTip": "struct\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:58:40.284Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

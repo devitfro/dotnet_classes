@@ -1,0 +1,15 @@
+D:\development\itStep\dotnet\dotnet_classes\struct\struct\bin\Debug\net9.0\struct.exe
+D:\development\itStep\dotnet\dotnet_classes\struct\struct\bin\Debug\net9.0\struct.deps.json
+D:\development\itStep\dotnet\dotnet_classes\struct\struct\bin\Debug\net9.0\struct.runtimeconfig.json
+D:\development\itStep\dotnet\dotnet_classes\struct\struct\bin\Debug\net9.0\struct.dll
+D:\development\itStep\dotnet\dotnet_classes\struct\struct\bin\Debug\net9.0\struct.pdb
+D:\development\itStep\dotnet\dotnet_classes\struct\struct\obj\Debug\net9.0\struct.GeneratedMSBuildEditorConfig.editorconfig
+D:\development\itStep\dotnet\dotnet_classes\struct\struct\obj\Debug\net9.0\struct.AssemblyInfoInputs.cache
+D:\development\itStep\dotnet\dotnet_classes\struct\struct\obj\Debug\net9.0\struct.AssemblyInfo.cs
+D:\development\itStep\dotnet\dotnet_classes\struct\struct\obj\Debug\net9.0\struct.csproj.CoreCompileInputs.cache
+D:\development\itStep\dotnet\dotnet_classes\struct\struct\obj\Debug\net9.0\struct.sourcelink.json
+D:\development\itStep\dotnet\dotnet_classes\struct\struct\obj\Debug\net9.0\struct.dll
+D:\development\itStep\dotnet\dotnet_classes\struct\struct\obj\Debug\net9.0\refint\struct.dll
+D:\development\itStep\dotnet\dotnet_classes\struct\struct\obj\Debug\net9.0\struct.pdb
+D:\development\itStep\dotnet\dotnet_classes\struct\struct\obj\Debug\net9.0\struct.genruntimeconfig.cache
+D:\development\itStep\dotnet\dotnet_classes\struct\struct\obj\Debug\net9.0\ref\struct.dll

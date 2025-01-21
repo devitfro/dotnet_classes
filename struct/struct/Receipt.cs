@@ -37,6 +37,7 @@ struct Receipt
             Console.WriteLine($"Total Price: {product.GetSumWithDiscount():F2}\n");
             totalAmount += product.GetSumWithDiscount();
         }
+
         Console.WriteLine(stringDecoration);
         Console.WriteLine($"Total Amount: {totalAmount:F2}");
         Console.WriteLine(stringDecoration);

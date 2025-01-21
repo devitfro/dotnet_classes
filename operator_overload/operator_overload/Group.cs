@@ -97,7 +97,6 @@ class Group
 
     public bool CheckGradeExam(Student student, List<int> gradesExam)
     {
-
         if (gradesExam == null || gradesExam.Count == 0)
             return false;
 
@@ -110,7 +109,7 @@ class Group
 
         double avgGrade = gradeSum / gradesExam.Count;
 
-        return avgGrade >= 50;
+        return avgGrade >= 70;
     }
 
     // overload operator
@@ -148,10 +147,11 @@ class Group
         return group1._students.Count == group2._students.Count;
     }
 
-    public static bool operator !=(Group a, Group b)
+    public static bool operator !=(Group group1, Group group2)
     {
-        return a._students.Count != b._students.Count;
+        return group1._students.Count != group2._students.Count;
     }
+
     public Student this[int index] 
     { 
         get => _students[index]; 

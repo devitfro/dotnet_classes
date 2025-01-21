@@ -2,18 +2,18 @@
 
 struct Product
 {
-    private string name;
-    private uint count;
-    private double price;
-    private uint discount;
+    private string _name;
+    private uint _count;
+    private double _price;
+    private uint _discount;
     
-    private uint countToBuy;
-    private double priceWithDiscount;
-    private double sumWithDiscount; 
+    private uint _countToBuy;
+    private double _priceWithDiscount;
+    private double _sumWithDiscount; 
 
     public Product(MilkProducts name, uint count, double price, uint discount)
     {
-        this.name = GetProductName(name);
+        this._name = GetProductName(name);
         SetCount(count);
         SetPrice(price);
         SetDiscount(discount);
@@ -45,7 +45,7 @@ struct Product
             Console.WriteLine("Cannot be so much products.");
             return;
         }
-        this.count = count;
+        this._count = count;
     }
 
     public void SetPrice(double price)
@@ -55,7 +55,7 @@ struct Product
             Console.WriteLine("Price cannot be negative.");
             return;
         }
-        this.price = price;
+        this._price = price;
     }
 
     public void SetDiscount(uint discount)
@@ -65,50 +65,50 @@ struct Product
             Console.WriteLine("Not correct discount.");
             return;
         }
-        this.discount = discount;
+        this._discount = discount;
     }
 
     //getters
-    public string GetName() => name;
+    public string GetName() => _name;
 
-    public uint GetCount() => count;
+    public uint GetCount() => _count;
 
-    public double GetPrice() => price;
+    public double GetPrice() => _price;
 
-    public uint GetDiscount() => discount;
+    public uint GetDiscount() => _discount;
 
-    public uint GetCountToBuy() => countToBuy;
+    public uint GetCountToBuy() => _countToBuy;
 
-    public double GetPriceWithDiscount() => priceWithDiscount;
+    public double GetPriceWithDiscount() => _priceWithDiscount;
 
-    public double GetSumWithDiscount() => sumWithDiscount;
+    public double GetSumWithDiscount() => _sumWithDiscount;
 
     // methods
     // Купить продукт, уменьшить к-во на складе, вызвать ф-цию посчитать сумму со скидкой
     public void BuyProduct(uint amount, Receipt receipt) {
-        if (amount > count)
+        if (amount > _count)
         {
             Console.WriteLine("You can't buy. Not enough product in stock.");
             return;
         }
 
-        count -= amount;
-        countToBuy = amount;
-        CalculateSum(price, discount, amount);
-        Result(sumWithDiscount, receipt);
+        _count -= amount;
+        _countToBuy = amount;
+        CalculateSum(_price, _discount, amount);
+        Result(_sumWithDiscount, receipt);
     }
 
     // Посчитать сумму со скидкой и общую сумму за продукт с учетом скидки
     public void CalculateSum(double price, uint discount, uint amount)
     {
-        priceWithDiscount = price - (price * discount / 100);
-        sumWithDiscount = priceWithDiscount * amount;
+        _priceWithDiscount = price - (price * discount / 100);
+        _sumWithDiscount = _priceWithDiscount * amount;
     }
 
     // Показать сумму со скидкой и спросить устраивает ли пользователя и если да - распечатать чек
     public void Result(double sum, Receipt receipt)
     {
-        Console.WriteLine($"Sum to pay for {name} : {sum:F2}");
+        Console.WriteLine($"Sum to pay for {_name} : {sum:F2}");
         Console.WriteLine("You agree to buy?");
    
         string userChoice = Console.ReadLine()?.Trim().ToLower();
@@ -129,10 +129,10 @@ struct Product
 
     // Показать информацию о продукте
     public override string ToString() => 
-        $"Name: {name}\n" +
-        $"Count: {count}\n" +
-        $"Price: {price}\n" +
-        $"Discount: {discount}\n";
+        $"Name: {_name}\n" +
+        $"Count: {_count}\n" +
+        $"Price: {_price}\n" +
+        $"Discount: {_discount}\n";
 
     public void ShowProductInfo()
     {

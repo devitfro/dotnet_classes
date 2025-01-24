@@ -186,20 +186,20 @@ class Student
 
     public List<int> GetGradesExam() => _gradesExam;
 
-    public override string ToString() => 
-        $"Surname: {_surname}\n" +
-        $"Name: {_name}\n" +
-        $"Patronymic: {_patronymic}\n" +
-        $"Birthday:" +
-        $" {_birthday}\n" +
-        $"Address: {_address}\n" +
-        $"Phone number: {_telNumber}";
+    public override string ToString() =>
+          $"Surname: {_surname}\n" +
+          $"Name: {_name}\n" +
+          $"Patronymic: {_patronymic}\n" +
+          $"Birthday:" +
+          $" {_birthday}\n" +
+          $"Address: {_address}\n" +
+          $"Phone number: {_telNumber}\n" +
+          $"Grades credit: {string.Join(", ", _gradesCredit)}\n" +
+          $"Grades course work: {string.Join(", ", _gradesCourseWork)}\n" +
+          $"Grades exam: {string.Join(", ", _gradesExam)}";
 
     public void ShowStudent()
     {
         Console.WriteLine(ToString());
-        Console.WriteLine("Grades credit: " + string.Join(", ", _gradesCredit));
-        Console.WriteLine("Grades course work: " + string.Join(", ", _gradesCourseWork));
-        Console.WriteLine("Grades exam: " + string.Join(", ", _gradesExam));
     }
 }

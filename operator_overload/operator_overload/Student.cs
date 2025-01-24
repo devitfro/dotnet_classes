@@ -194,17 +194,17 @@ class Student
         $"Birthday:" +
         $" {_birthday}\n" +
         $"Address: {_address}\n" +
-        $"Phone number: {_telNumber}";
+        $"Phone number: {_telNumber}\n" +
+        $"Grades credit: {string.Join(", ", _gradesCredit)}\n" +
+        $"Grades course work: {string.Join(", ", _gradesCourseWork)}\n" +
+        $"Grades exam: {string.Join(", ", _gradesExam)}";
 
     public void ShowStudent()
     {
         Console.WriteLine(ToString());
-        Console.WriteLine("Grades credit: " + string.Join(", ", _gradesCredit));
-        Console.WriteLine("Grades course work: " + string.Join(", ", _gradesCourseWork));
-        Console.WriteLine("Grades exam: " + string.Join(", ", _gradesExam));
     }
 
- 
+
     public double GetAverageGrade() => _gradesExam.Average();
 
     // overload operators

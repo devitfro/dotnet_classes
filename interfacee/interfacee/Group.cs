@@ -18,7 +18,7 @@ class Group : ICloneable
         Students = students;
     }
 
-    // Properties
+    // properties
     public string GroupName
     {
         get => _groupName;
@@ -63,6 +63,15 @@ class Group : ICloneable
         }
     }
 
+    // methods
+    public override string ToString()
+    {
+        return $"Group Name: {GroupName}\n" +
+               $"Specialist: {GroupSpecialist}\n" +
+               $"Course: {CourseNumber}\n" +
+               $"Students:\n{string.Join("\n", Students)}";
+    }
+
     // clone
     public object Clone()
     {
@@ -72,13 +81,5 @@ class Group : ICloneable
             _courseNumber,
             _students.ConvertAll(student => (Student)student.Clone())
         );
-    }
-
-    public override string ToString()
-    {
-        return $"Group Name: {GroupName}\n" +
-               $"Specialist: {GroupSpecialist}\n" +
-               $"Course: {CourseNumber}\n" +
-               $"Students:\n{string.Join("\n", Students)}";
     }
 }

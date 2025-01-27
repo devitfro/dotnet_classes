@@ -111,8 +111,8 @@ class Student : ICloneable
 
             int age = today.Year - value.Year;
 
-            //if (age < 15 || age > 100)
-            //    throw new ArgumentException("Age must be between 15 and 100 years.");
+            if (age < 15 || age > 100)
+                throw new ArgumentException("Age must be between 15 and 100 years.");
             _birthday = value;
         }
     }
@@ -137,8 +137,6 @@ class Student : ICloneable
             _gradesCredit = new List<int>(value);
         }
     }
-
-
 
     public List<int> GradesCourseWork
     {
@@ -228,7 +226,6 @@ class Student : ICloneable
 
         _address = address;
     }
-
 
     public void SetTelNumber(string telNumber)
     {

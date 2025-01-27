@@ -39,7 +39,7 @@ internal class Program
         Console.WriteLine(clonedGroup);
 
         student1.Name = "Changed Name";
-        student1.GradesCredit[0] = 80;
+        student1.GradesCredit[0] = 100;
 
         Console.WriteLine("\nAfter Modification:");
         Console.WriteLine("Original Group:");

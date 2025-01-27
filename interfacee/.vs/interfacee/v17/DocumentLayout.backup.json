@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{BEA89347-BA29-48AA-9E43-C386D0B65CE9}|interfacee\\interfacee.csproj|solutionrelative:interfacee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEA89347-BA29-48AA-9E43-C386D0B65CE9}|interfacee\\interfacee.csproj|d:\\development\\itstep\\dotnet\\dotnet_classes\\interfacee\\interfacee\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEA89347-BA29-48AA-9E43-C386D0B65CE9}|interfacee\\interfacee.csproj|solutionrelative:interfacee\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BEA89347-BA29-48AA-9E43-C386D0B65CE9}|interfacee\\interfacee.csproj|d:\\development\\itstep\\dotnet\\dotnet_classes\\interfacee\\interfacee\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BEA89347-BA29-48AA-9E43-C386D0B65CE9}|interfacee\\interfacee.csproj|solutionrelative:interfacee\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEA89347-BA29-48AA-9E43-C386D0B65CE9}|interfacee\\interfacee.csproj|d:\\development\\itstep\\dotnet\\dotnet_classes\\interfacee\\interfacee\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEA89347-BA29-48AA-9E43-C386D0B65CE9}|interfacee\\interfacee.csproj|solutionrelative:interfacee\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,26 +26,26 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\development\\itStep\\dotnet\\dotnet_classes\\interfacee\\interfacee\\Student.cs",
               "RelativeDocumentMoniker": "interfacee\\Student.cs",
               "ToolTip": "D:\\development\\itStep\\dotnet\\dotnet_classes\\interfacee\\interfacee\\Student.cs*",
               "RelativeToolTip": "interfacee\\Student.cs*",
-              "ViewState": "AgIAAHgBAAAAAAAAAAAkwIMBAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAGUBAAAAAAAAAAAAAOMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-27T20:00:17.12Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Group.cs",
               "DocumentMoniker": "D:\\development\\itStep\\dotnet\\dotnet_classes\\interfacee\\interfacee\\Group.cs",
               "RelativeDocumentMoniker": "interfacee\\Group.cs",
               "ToolTip": "D:\\development\\itStep\\dotnet\\dotnet_classes\\interfacee\\interfacee\\Group.cs",
               "RelativeToolTip": "interfacee\\Group.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-27T20:00:11.765Z",
               "EditorCaption": ""
@@ -56,9 +56,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\development\\itStep\\dotnet\\dotnet_classes\\interfacee\\interfacee\\Program.cs",
               "RelativeDocumentMoniker": "interfacee\\Program.cs",
-              "ToolTip": "D:\\development\\itStep\\dotnet\\dotnet_classes\\interfacee\\interfacee\\Program.cs",
-              "RelativeToolTip": "interfacee\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAkwCcAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\development\\itStep\\dotnet\\dotnet_classes\\interfacee\\interfacee\\Program.cs*",
+              "RelativeToolTip": "interfacee\\Program.cs*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACsAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-27T19:55:33.7Z",
               "EditorCaption": ""

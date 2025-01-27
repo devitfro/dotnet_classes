@@ -1,0 +1,15 @@
+D:\development\itStep\dotnet\dotnet_classes\interfacee\interfacee\bin\Debug\net9.0\interfacee.exe
+D:\development\itStep\dotnet\dotnet_classes\interfacee\interfacee\bin\Debug\net9.0\interfacee.deps.json
+D:\development\itStep\dotnet\dotnet_classes\interfacee\interfacee\bin\Debug\net9.0\interfacee.runtimeconfig.json
+D:\development\itStep\dotnet\dotnet_classes\interfacee\interfacee\bin\Debug\net9.0\interfacee.dll
+D:\development\itStep\dotnet\dotnet_classes\interfacee\interfacee\bin\Debug\net9.0\interfacee.pdb
+D:\development\itStep\dotnet\dotnet_classes\interfacee\interfacee\obj\Debug\net9.0\interfacee.GeneratedMSBuildEditorConfig.editorconfig
+D:\development\itStep\dotnet\dotnet_classes\interfacee\interfacee\obj\Debug\net9.0\interfacee.AssemblyInfoInputs.cache
+D:\development\itStep\dotnet\dotnet_classes\interfacee\interfacee\obj\Debug\net9.0\interfacee.AssemblyInfo.cs
+D:\development\itStep\dotnet\dotnet_classes\interfacee\interfacee\obj\Debug\net9.0\interfacee.csproj.CoreCompileInputs.cache
+D:\development\itStep\dotnet\dotnet_classes\interfacee\interfacee\obj\Debug\net9.0\interfacee.sourcelink.json
+D:\development\itStep\dotnet\dotnet_classes\interfacee\interfacee\obj\Debug\net9.0\interfacee.dll
+D:\development\itStep\dotnet\dotnet_classes\interfacee\interfacee\obj\Debug\net9.0\refint\interfacee.dll
+D:\development\itStep\dotnet\dotnet_classes\interfacee\interfacee\obj\Debug\net9.0\interfacee.pdb
+D:\development\itStep\dotnet\dotnet_classes\interfacee\interfacee\obj\Debug\net9.0\interfacee.genruntimeconfig.cache
+D:\development\itStep\dotnet\dotnet_classes\interfacee\interfacee\obj\Debug\net9.0\ref\interfacee.dll

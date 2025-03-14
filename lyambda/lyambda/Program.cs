@@ -34,8 +34,6 @@ namespace lyambda
             // Вывод результатов
             PrintStudents("Отличники:", excellentStudents);
             PrintStudents("Имена начинаются с 'А':", nameStartsWithA);
-            PrintStudents("Есть оценка 2 за экзамен:", hasGrade2);
-            PrintStudents("Средний балл выше среднего:", topStudents);
             PrintStudents("Имя длиннее 5 символов:", longNameStudents);
             PrintStudents("Четное количество оценок:", evenGradeCountStudents);
             PrintStudents("Сумма всех оценок больше 50:", highTotalGradeStudents);

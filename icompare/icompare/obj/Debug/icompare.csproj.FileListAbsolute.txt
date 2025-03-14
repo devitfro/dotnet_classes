@@ -1,0 +1,7 @@
+D:\development\itStep\dotnet\dotnet_classes\icompare\icompare\bin\Debug\icompare.exe.config
+D:\development\itStep\dotnet\dotnet_classes\icompare\icompare\bin\Debug\icompare.exe
+D:\development\itStep\dotnet\dotnet_classes\icompare\icompare\bin\Debug\icompare.pdb
+D:\development\itStep\dotnet\dotnet_classes\icompare\icompare\obj\Debug\icompare.csproj.AssemblyReference.cache
+D:\development\itStep\dotnet\dotnet_classes\icompare\icompare\obj\Debug\icompare.csproj.CoreCompileInputs.cache
+D:\development\itStep\dotnet\dotnet_classes\icompare\icompare\obj\Debug\icompare.exe
+D:\development\itStep\dotnet\dotnet_classes\icompare\icompare\obj\Debug\icompare.pdb

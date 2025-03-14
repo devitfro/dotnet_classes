@@ -1,0 +1,7 @@
+D:\development\itStep\dotnet\dotnet_classes\lyambda\lyambda\obj\Debug\lyambda.csproj.AssemblyReference.cache
+D:\development\itStep\dotnet\dotnet_classes\lyambda\lyambda\obj\Debug\lyambda.csproj.CoreCompileInputs.cache
+D:\development\itStep\dotnet\dotnet_classes\lyambda\lyambda\bin\Debug\lyambda.exe.config
+D:\development\itStep\dotnet\dotnet_classes\lyambda\lyambda\bin\Debug\lyambda.exe
+D:\development\itStep\dotnet\dotnet_classes\lyambda\lyambda\bin\Debug\lyambda.pdb
+D:\development\itStep\dotnet\dotnet_classes\lyambda\lyambda\obj\Debug\lyambda.exe
+D:\development\itStep\dotnet\dotnet_classes\lyambda\lyambda\obj\Debug\lyambda.pdb
